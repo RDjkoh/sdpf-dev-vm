@@ -55,6 +55,9 @@ Vagrant.configure("2") do |config|
 	
 	# install nodejs
     sudo -E apt-get -qq install -y nodejs
+	
+	# install awscli
+	sudo -E apt-get -qq install -y awscli
     
 	# install npm, aws sam local
 	# npm environments wouldn't initialize in vagrant provisioning
