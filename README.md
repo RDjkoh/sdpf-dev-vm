@@ -1,8 +1,8 @@
 ## sdpf-dev-vm
-Ubuntu VM defined by Vagrant. Installs Java, Maven, Docker, node.js, npm and AWS SAM Local on an Ubuntu image. 
+Ubuntu VM defined by Vagrant. Installs Java, Maven, Git, Docker, node.js, npm and AWS SAM Local on an Ubuntu image. 
 ### Installation
 #### Prerequisites 
-[Vagrant](https://www.vagrantup.com/docs/installation/)
+[Vagrant](https://www.vagrantup.com/docs/installation/) |
 [Git](https://git-scm.com/download/) (Use Git Bash on Windows hosts)
 
 #### Usage
