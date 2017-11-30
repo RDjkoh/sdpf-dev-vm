@@ -29,7 +29,7 @@ node -v
 # npm
 npm -v
 # AWS CLI
-aws
+aws --version
 # AWS SAM Local
 sam -v
 ```
