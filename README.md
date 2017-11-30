@@ -2,11 +2,10 @@
 Ubuntu VM defined by Vagrant. Installs Java, Maven, Git, Docker, node.js, npm, AWS CLI and AWS SAM Local on an Ubuntu image. 
 ### Installation
 #### Prerequisites 
-[Vagrant](https://www.vagrantup.com/docs/installation/) |
-[Git](https://git-scm.com/download/) (Use Git Bash on Windows hosts)
+[Vagrant](https://www.vagrantup.com/docs/installation/) | [VirtualBox](https://www.virtualbox.org/) | [Git](https://git-scm.com/download/) (Use Git Bash on Windows hosts) 
 
 #### Usage
-Provision the VM. Takes about 10 minutes. Run the following command at the root of the repo. 
+Provision the VM. Takes about 10 minutes, 15-20 if you don't have the base Ubuntu image. Run the following command at the root of the repo. 
 ```bash
 vagrant up
 ```
